@@ -5,3 +5,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+## Current Projects
+
+- [lucky-wheel](https://github.com/jerryxcy/lucky-wheel) — A spin-wheel decision tool for teams.
