@@ -8,3 +8,4 @@
 ## Projects
 
 - [lucky-wheel](https://github.com/jerryxcy/lucky-wheel) — A spin-wheel decision tool for teams.
+- [device-telemetry-go](https://github.com/jerryxcy/device-telemetry-go) — A Go microservice practice project for device registry and telemetry ingestion with gRPC communication.
