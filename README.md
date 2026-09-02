@@ -20,3 +20,4 @@
 
 - [lucky-wheel](https://github.com/jerryxcy/lucky-wheel) — A spin-wheel decision tool for teams.
 - [device-telemetry-go](https://github.com/jerryxcy/device-telemetry-go) — A Go microservice practice project for device registry and telemetry ingestion with gRPC communication, observability via Prometheus and Grafana.
+- [patch-code-agent](https://github.com/jerryxcy/patch-code-agent) — A LangGraph practice project building a test-driven coding agent harness.
